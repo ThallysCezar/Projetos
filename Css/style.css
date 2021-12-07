@@ -25,11 +25,15 @@ body {
     padding: 10px;
 }
 
+#a-principal{
+    background: white;
+    width: 920px;
+    margin: 0 auto;
+}
 
 /*----FORMATACao DO MENU-----*/
 
-a:link,
-a:visited {
+a:link, a:visited {
     color: #fff;
     padding: 8px 12px;
 }
