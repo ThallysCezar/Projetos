@@ -1,2 +1,2 @@
-# Projetos
-Projetos para treinar HTML, CSS e JS
+# Projeto
+Projeto para treinar HTML, CSS e JS
