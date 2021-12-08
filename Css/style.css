@@ -27,10 +27,6 @@ body {
     padding: 15px;
 }
 
-#a-lateral{
-    background: orange;
-}
-
 #a-postagem{
     width: 660px;
     float: left;
@@ -54,7 +50,20 @@ body {
     background: white;
 }
 
-/*----FORMATACao DO MENU-----*/
+.conteudo-lateral{
+    background: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+
+.postagem-lateral{
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px dotted #CCC;
+}
+
+/*----FORMATACAO DO MENU-----*/
 a:link, a:visited {
     color: #f7b600;
 }
@@ -82,6 +91,12 @@ h1 {
 
 h2{
     color: #f7b600;
+}
+
+h3{
+    color: #565656;
+    background: #CCC;
+    padding: 5px;
 }
 
 .branco {
